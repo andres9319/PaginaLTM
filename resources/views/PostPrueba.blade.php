@@ -38,7 +38,7 @@
 
       <!-- <h1 class="logo"><a href="index.html">LTM</a></h1>-->
       <!-- Lo de abajo se usa cuando hay un png o jpg para logo, sino texto arriba(descomentar) -->
-      <a href="index.html" class="logo"><img src="assets/img/LTMlogo.jpg" alt="" class="img-fluid"></a>
+      <a href="/" class="logo"><img src="assets/img/LTMlogo.jpg" alt="" class="img-fluid"></a>
 
       <nav id="navbar" class="navbar">
         <ul>
