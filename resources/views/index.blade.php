@@ -223,13 +223,13 @@
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-app">
             <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/1.jpg" class="img-fluid" alt="">
+              <img src="assets/img/portfolio/4.jpeg" class="img-fluid" alt="">
               <div class="portfolio-info">
                 <h4>Talleres</h4>
                 <p>Taller</p>
                 <div class="portfolio-links">
-                  <a href="assets/img/portfolio/1.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="App 1"><i class="bx bx-plus"></i></a>
-                  <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                  <a href="" data-gallery="portfolioGallery" class="portfolio-lightbox" title="App 1"><i class="bx bx-plus"></i></a>
+                  <a href="" title="More Details"><i class="bx bx-link"></i></a>
                 </div>
               </div>
             </div>
@@ -237,13 +237,13 @@
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-web">
             <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/2.jpg" class="img-fluid" alt="">
+              <img src="assets/img/portfolio/6.jpeg" class="img-fluid" alt="">
               <div class="portfolio-info">
                 <h4>texto</h4>
                 <p>texto</p>
                 <div class="portfolio-links">
-                  <a href="assets/img/portfolio/2.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web 3"><i class="bx bx-plus"></i></a>
-                  <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                  <a href="" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web 3"><i class="bx bx-plus"></i></a>
+                  <a href="" title="More Details"><i class="bx bx-link"></i></a>
                 </div>
               </div>
             </div>
@@ -251,13 +251,13 @@
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-app">
             <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/3.jpeg" class="img-fluid" alt="">
+              <img src="assets/img/portfolio/7.jpeg" class="img-fluid" alt="">
               <div class="portfolio-info">
                 <h4>texto</h4>
                 <p>texto</p>
                 <div class="portfolio-links">
-                  <a href="assets/img/portfolio/3.jpeg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="App 2"><i class="bx bx-plus"></i></a>
-                  <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                  <a href="" data-gallery="portfolioGallery" class="portfolio-lightbox" title="App 2"><i class="bx bx-plus"></i></a>
+                  <a href="" title="More Details"><i class="bx bx-link"></i></a>
                 </div>
               </div>
             </div>
@@ -265,13 +265,13 @@
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-card">
             <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/4.jpeg" class="img-fluid" alt="">
+              <img src="assets/img/portfolio/1.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
                 <h4>texto1</h4>
                 <p>texto1</p>
                 <div class="portfolio-links">
-                  <a href="assets/img/portfolio/4.jpeg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Card 2"><i class="bx bx-plus"></i></a>
-                  <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                  <a href="" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Card 2"><i class="bx bx-plus"></i></a>
+                  <a href="" title="More Details"><i class="bx bx-link"></i></a>
                 </div>
               </div>
             </div>
@@ -284,8 +284,8 @@
                 <h4>texto 2</h4>
                 <p>text</p>
                 <div class="portfolio-links">
-                  <a href="assets/img/portfolio/5.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web 2"><i class="bx bx-plus"></i></a>
-                  <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                  <a href="" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web 2"><i class="bx bx-plus"></i></a>
+                  <a href="" title="More Details"><i class="bx bx-link"></i></a>
                 </div>
               </div>
             </div>
@@ -293,13 +293,13 @@
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-app">
             <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/6.jpeg" class="img-fluid" alt="">
+              <img src="assets/img/portfolio/2.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
                 <h4>texto 3</h4>
                 <p>text</p>
                 <div class="portfolio-links">
-                  <a href="assets/img/portfolio/6.jpeg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="App 3"><i class="bx bx-plus"></i></a>
-                  <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                  <a href="" data-gallery="portfolioGallery" class="portfolio-lightbox" title="App 3"><i class="bx bx-plus"></i></a>
+                  <a href="" title="More Details"><i class="bx bx-link"></i></a>
                 </div>
               </div>
             </div>
@@ -312,8 +312,8 @@
                 <h4>imagen1</h4>
                 <p>imagen</p>
                 <div class="portfolio-links">
-                  <a href="assets/img/portfolio/7.jpeg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Card 1"><i class="bx bx-plus"></i></a>
-                  <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                  <a href="" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Card 1"><i class="bx bx-plus"></i></a>
+                  <a href="" title="More Details"><i class="bx bx-link"></i></a>
                 </div>
               </div>
             </div>
@@ -326,8 +326,8 @@
                 <h4>imagen 3</h4>
                 <p>imagen</p>
                 <div class="portfolio-links">
-                  <a href="assets/img/portfolio/8.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Card 3"><i class="bx bx-plus"></i></a>
-                  <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                  <a href="" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Card 3"><i class="bx bx-plus"></i></a>
+                  <a href="" title="More Details"><i class="bx bx-link"></i></a>
                 </div>
               </div>
             </div>
@@ -340,8 +340,8 @@
                 <h4>imagen 3</h4>
                 <p>imagen</p>
                 <div class="portfolio-links">
-                  <a href="assets/img/portfolio/9.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web 3"><i class="bx bx-plus"></i></a>
-                  <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                  <a href="" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web 3"><i class="bx bx-plus"></i></a>
+                  <a href="" title="More Details"><i class="bx bx-link"></i></a>
                 </div>
               </div>
             </div>
@@ -369,7 +369,7 @@
               <div class="member-info">
                 <div class="member-info-content">
                   <h4>Axeline Cespedes</h4>
-                  <span>Terror de...</span>
+                  <span>Presidente</span>
                   <div class="social">
                     
                     <a href="https://www.facebook.com/liberatumonoclub"><i class="bi bi-facebook"></i></a>
@@ -406,6 +406,24 @@
               <div class="member-info">
                 <div class="member-info-content">
                   <h4>Marcianeke</h4>
+                  <span>Presi</span>
+                  <div class="social">
+                    <a href=""><i class="bi bi-facebook"></i></a>
+                    <a href=""><i class="bi bi-instagram"></i></a>
+                    <a href=""><i class="bi bi-linkedin"></i></a>
+                    <a href=""><i class="bi bi-twitter"></i></a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-xl-3 col-lg-4 col-md-6" data-wow-delay="0.3s">
+            <div class="member">
+              <img src="assets/img/team/team-4.jpg" class="img-fluid" alt="">
+              <div class="member-info">
+                <div class="member-info-content">
+                  <h4>Rosa espinoza</h4>
                   <span>Presi</span>
                   <div class="social">
                     <a href=""><i class="bi bi-facebook"></i></a>
