@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://liberatumono.com/sitemap.xml
